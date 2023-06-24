@@ -1,0 +1,29 @@
+.c{
+    padding-top: 3cm;
+    height: 5000px;
+    background-color: rgb(64, 127, 243);
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+body{
+    background-color: rgb(120, 120, 155);
+}
+textarea{
+    border-radius: 10px;
+}
+#all{
+    width: 50%;
+    margin-top: 1cm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.all{
+    margin-top: 5px;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-radius: 5px;
+    background-color: orange;
+    padding: 0px 5px;
+}
